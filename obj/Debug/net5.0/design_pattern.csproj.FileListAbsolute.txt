@@ -1,0 +1,15 @@
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.csproj.AssemblyReference.cache
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.AssemblyInfoInputs.cache
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.AssemblyInfo.cs
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.csproj.CoreCompileInputs.cache
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/design_pattern.deps.json
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/design_pattern.runtimeconfig.json
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/design_pattern.runtimeconfig.dev.json
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/design_pattern.dll
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/ref/design_pattern.dll
+/Users/tranhoang/Desktop/education/design_pattern/bin/Debug/net5.0/design_pattern.pdb
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.dll
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/ref/design_pattern.dll
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.pdb
+/Users/tranhoang/Desktop/education/design_pattern/obj/Debug/net5.0/design_pattern.genruntimeconfig.cache
