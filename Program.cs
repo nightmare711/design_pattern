@@ -6,11 +6,13 @@ namespace design_pattern
     {
         static void Main(string[] args)
         {
-            Logger logger = AppLogger.getLogger();
-
-            logger.log(LogLevel.PENDING, "Pending message");
-            logger.log(LogLevel.SUCCESS, "Success message");
-            logger.log(LogLevel.ERROR, "Error message");
+            User student = new Student();
+            User teacher = new Teacher();
+            User admin = new Admin();
+            Visitor v = new VisitorImpl();
+            student.search(v);
+            teacher.search(v);
+            admin.search(v);
         }
     }
 }
